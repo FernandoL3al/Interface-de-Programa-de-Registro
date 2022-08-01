@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1659393877 source:c:\users\luisf\documents\github\interface-de-programa-de-registro\vt\interface.c
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"interface.h"
+
+1659392163 c:\users\luisf\documents\github\interface-de-programa-de-registro\vt\interface.h
+
+1659394959 source:c:\users\luisf\documents\github\interface-de-programa-de-registro\vt\main.c
+	<stdio.h>
+	"interface.h"
+	<windows.h>
+
